@@ -50,4 +50,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adityashah007&show_icons=true&locale=en" alt="Adityashah007" /></p>
 </a>
-<img src="https://drive.google.com/file/d/1DoU-EuF5ey-DQ2fkrURDhLYOrWtLPZ0A/view?usp=sharing" alt="html5" width="40" height="40"/>
